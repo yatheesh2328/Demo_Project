@@ -1,6 +1,6 @@
 #!/bin/bash
-read -p "ENTER THE NUMBER TO FIND SUM OF N NUMBERS : " num1
-sum=0
+#read -p "ENTER THE NUMBER TO FIND SUM OF N NUMBERS : " num1
+#sum=0
 #using while condition
 
 while [ $num1 -gt 0 ]
