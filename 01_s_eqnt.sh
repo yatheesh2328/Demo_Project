@@ -12,5 +12,4 @@ then
 	echo "A and B are equal"
 else
 	echo "A and B are not equal"
-
 fi
